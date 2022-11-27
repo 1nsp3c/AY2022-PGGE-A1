@@ -4,7 +4,6 @@ using UnityEngine;
 
 namespace PGGE
 {
-
     public class TPCFollowTrackPositionAndRotation : TPCFollow
     {
         public TPCFollowTrackPositionAndRotation(Transform cameraTransform, Transform playerTransform)
